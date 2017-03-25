@@ -1,6 +1,8 @@
 fancybox: true ## 是否启用Fancybox图片灯箱效果 true/false.
 duoshuo: ## 多说用户名,为空则不使用
 disqus: ## disqus用户名，为空则不使用
+## 网易云跟帖productKey gentie.163.com 
+gentieProductKey: 
 google_search: true ## 使用google搜索引擎, true/false.
 baidu_search: ## 使用百度搜索引擎, true/false.
 google_analytics: ## Google统计ID
